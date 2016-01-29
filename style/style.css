@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+td {
+    height: 50px;
+    width: 50px;
+}
+
+.alive {
+    background-color: lightslategray;
+}
